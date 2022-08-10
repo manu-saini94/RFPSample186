@@ -26,5 +26,8 @@ public class Sample3 extends AccessSpecifiers {
         obj2.m4();
         System.out.println(AccessSpecifiers.y4);
         AccessSpecifiers.method4();
+
+
+        System.out.println("code done by me");
     }
 }

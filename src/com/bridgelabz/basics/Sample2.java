@@ -23,5 +23,7 @@ public class Sample2 {
         obj.m4();
         System.out.println(AccessSpecifiers.y4);
         AccessSpecifiers.method4();
+
+        System.out.println("code done by me");
     }
 }
