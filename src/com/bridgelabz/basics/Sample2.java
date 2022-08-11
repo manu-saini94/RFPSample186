@@ -25,6 +25,7 @@ public class Sample2 {
         AccessSpecifiers.method4();
 
         System.out.println("code done by me  , modified by dev-2");
+        System.out.println("code done by me , modified by dev-1");
         System.out.println("branch2 changes");
         System.out.println("changes done by dev-1");
 
